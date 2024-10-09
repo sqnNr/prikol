@@ -1,0 +1,15 @@
+.wrap {
+    width: 500px;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    align-items: center;
+  }
+  label {
+    display: flex;
+    flex-direction: column;
+  }
+  button {
+    padding: 12px 60px;
+  }
